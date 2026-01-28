@@ -53,7 +53,7 @@ Proyecto
 ├── img
 │   ├── ss1.png
 │   └── crecimiento_anual.png
-├── README.md
+└── README.md
 ```
 
 ## 📸 Pantallazos
@@ -64,4 +64,4 @@ Proyecto
 Este proyecto está bajo la licencia MIT.
 
 ## 📬 Contacto
-For any questions or concerns, please contact me at [hleonardojsuarez@gmail.com](mailto:hleonardojsuarez@gmail.com).
+Cualquier duda, mi contacto es por medio del correo: [hleonardojsuarez@gmail.com](mailto:hleonardojsuarez@gmail.com).
